@@ -210,6 +210,11 @@ Al finalizar el laboratorio, el proyecto Laravel quedó funcionando correctament
 ```
 http://127.0.0.1:8000
 ```
+### Dashboard tras iniciar sesión
+![Dashboard](screenshots/dashboard.jpeg)
+
+### Pantalla de Inicio – Laravel 13
+![Laravel Home](screenshots/laravel-home.jpeg)
 
 La pantalla de inicio de Laravel 13 fue visible con todos los assets de Tailwind CSS compilados correctamente mediante Vite.
 
